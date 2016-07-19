@@ -1,3 +1,10 @@
+.memb {
+    font-size: 50px;
+    background-color: black;
+    color: burlywood;
+    text-align: center;
+    font-style: italic;
+}
 /* --------------------------------
 
 Primary style
