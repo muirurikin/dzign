@@ -1,18 +1,3 @@
-.ba {
-    background-color: black;
-    color: burlywood;
-}
-.peeps {
-    text-align: center;
-    background-color: black;
-    color: burlywood;
-}
-.col-1-3{
-    width: 49%;
-    display: inline-block;
-    clear:both;
-    border-radius: 10px;
-}
 @font-face {
 	font-weight: normal;
 	font-style: normal;
