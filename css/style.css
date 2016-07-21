@@ -1,3 +1,9 @@
+.colu {
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+    padding-left: 100px;
+}
 .memb {
     font-size: 50px;
     background-color: black;
@@ -23,6 +29,7 @@ html * {
 
 html {
   font-size: 62.5%;
+  
 }
 
 body {
@@ -192,14 +199,16 @@ h1{
     width: 70%;
     font-size: 25px;
 }
-
+.form {
+    color: black;
+}
 
 fieldset{
     font-size: 40px;
     font-weight: 300;
-    border: 1px solid white;
+    border: 1px solid;
     padding: 20px;
-    border-radius: 5px
+    border-radius: 5px;
 }
 
 .C-intro{
@@ -213,6 +222,7 @@ legend{
 
 label{
     font-weight: 200;
+    color: aliceblue;
 }
 input, textarea{
     margin-bottom: 5px;
